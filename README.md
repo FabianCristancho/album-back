@@ -1,4 +1,4 @@
-# album-back
+# album-back (NodeJS)
 
 Este es el ejemplo de CRUD de album de fotos del back
 
